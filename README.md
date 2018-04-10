@@ -1,3 +1,3 @@
 # Libraries
 
-Open source test library for SLCC
+Open source test repository for SLCC
